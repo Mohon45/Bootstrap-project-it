@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.project-nav li a {
+  font-size: 25px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+.project-nav li a:hover {
+  border: 1px solid violet;
+  border-radius: 10px;
+}
+.banner-leftside {
+  width: 50%;
+}
+.banner-leftside h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  color: white;
+}
+.banner-leftside button {
+  background-color: brown;
+  color: white;
+}
+.banner-rightside {
+  margin-right: 8%;
+}
+.banner-rightside img {
+  width: 600px;
+}
